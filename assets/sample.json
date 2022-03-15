@@ -1,0 +1,41 @@
+{
+    "name" : "xcoo",
+    "age" : 18,
+    "gender" : "Laki-Laki",
+    "hobi" : [
+        "Gelud sama pikiran",
+        "Gagal",
+        "Baku hantam dengan realita"
+    ],
+    "github" : {
+        "username": "Adeeetcoeg",
+        "repository": 666
+    },
+    "articles" : [
+        {
+        "id" : 1,
+        "title" : "Flutter: Introduction",
+        "subtitle": "Beautiful native apps with dart languange"
+        },
+        {
+            "id" : 2,
+            "title" : "Flutter: LinearLayout",
+            "subtitle": "How to design LinearLayout in Flutter"
+            },
+            {
+                "id" : 3,
+                "title" : "Flutter: RelativeLayout",
+                "subtitle": "How to design RelativeLayout in Flutter"
+                }
+    ],
+    "contact": {
+        "1": {
+            "name": "xcoo",
+            "phone": "082269962344"
+        },
+        "2": {
+            "name": "School",
+            "phone": "666"
+        }
+    }
+}
